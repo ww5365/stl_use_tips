@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
-Debug/*
+Default/*
+.settings/*
+.cproject
+.project
 
 # Compiled Object files
 *.slo
@@ -31,3 +34,4 @@ Debug/*
 *.exe
 *.out
 *.app
+/Default/

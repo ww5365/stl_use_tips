@@ -10,7 +10,7 @@ using namespace std;
 
 int main(int argc, char* arg[]){
 
-    cout<<"this is main entrance223346"<<endl;
+    cout<<"this is main entrance223346d"<<endl;
 
     two_dimension_array_test();
 
