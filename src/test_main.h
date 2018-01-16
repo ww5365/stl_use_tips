@@ -22,6 +22,10 @@ int bsl_tree_test();
 
 int regex_use_test();
 
+void string_use_test();
 
+void stl_set_use_test();
+
+void stl_stack_queue_use_test();
 
 #endif /* TEST_MAIN_H_ */
